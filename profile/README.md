@@ -27,7 +27,7 @@ couldn't make the night.
 
 ## Next session
 
-**clj-aus #2: Jolt since September, and Clojure on the Wii**
+**clj-aus #2: Jolt since September, and Clojure on the Wii**<br>
 Tuesday 24 November 2026, 7:00–8:30pm AEDT, online.
 
 A quick tour of what [Jolt](https://github.com/jolt-lang/jolt) can do now
