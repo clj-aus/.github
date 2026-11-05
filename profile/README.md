@@ -35,7 +35,7 @@ without a JVM, then Clojure running on a Nintendo Wii: four games played
 live, and the whole project going open source on the night. Lightning talks
 are open too, so sign up by Saturday 21 November.
 
-[**See it on Meetup →**](https://www.meetup.com/clojure-australia/events/)
+[**RSVP →**](https://www.meetup.com/clojure-australia/events/317297998/)
 
 Missed #1? The notes for
 [Three native Clojures, one C game library](https://github.com/clj-aus/meetings/tree/main/2026-09-16-three-native-clojures)
