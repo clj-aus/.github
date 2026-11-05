@@ -27,15 +27,19 @@ couldn't make the night.
 
 ## Next session
 
-**clj-aus #1 — Three native Clojures, one C game library**
-Wednesday 16 September 2026, 6:30–7:30pm AEST, online.
+**clj-aus #2: Jolt since September, and Clojure on the Wii**
+Tuesday 24 November 2026, 7:00–8:30pm AEDT, online.
 
-The same raylib examples running under [Jolt](https://github.com/jolt-lang/jolt)
-(Chez Scheme), [jank](https://jank-lang.org) (C++/LLVM) and JVM Clojure
-(Panama) — and what each runtime does with a C library that passes structs
-by value everywhere.
+A quick tour of what [Jolt](https://github.com/jolt-lang/jolt) can do now
+without a JVM, then Clojure running on a Nintendo Wii: four games played
+live, and the whole project going open source on the night. Lightning talks
+are open too, so sign up by Saturday 21 November.
 
-[**RSVP →**](https://www.meetup.com/clojure-australia/events/316277511/)
+[**See it on Meetup →**](https://www.meetup.com/clojure-australia/events/)
+
+Missed #1? The notes for
+[Three native Clojures, one C game library](https://github.com/clj-aus/meetings/tree/main/2026-09-16-three-native-clojures)
+are in the archive.
 
 ## What we cover
 
